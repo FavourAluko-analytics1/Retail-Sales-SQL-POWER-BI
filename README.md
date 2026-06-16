@@ -38,3 +38,11 @@ Worked on a retail sales dataset to explore customer purchasing patterns, sales 
 * Continue investing in Online and Mobile Apps sales channels to capitalize on their strong performance.
 * Monitor regional sales regularly to identify emerging opportunities and areas that may require strategic intervention.
 * Introduce personalized promotions to encourage repeat purchases and increase customer retention.
+<img width="1346" height="571" alt="Power BI 1" src="https://github.com/user-attachments/assets/6b804335-68a4-446e-84be-9573ca896491" />
+<img width="780" height="497" alt="Power Bi 2" src="https://github.com/user-attachments/assets/3beecc80-7644-4c2a-8417-2a6705849812" />
+<img width="1005" height="598" alt="Retail Sales 2" src="https://github.com/user-attachments/assets/f8e202ba-1f4e-4f59-89e9-3548c9b4e47d" />
+<img width="980" height="569" alt="Retail Sales 1" src="https://github.com/user-attachments/assets/7edd6e45-8133-4ade-997d-af8dc659a32c" />
+<img width="1009" height="543" alt="Retail Sales 5" src="https://github.com/user-attachments/assets/ae2bb3cc-fce2-425c-8ca7-66172d80a055" />
+
+
+
